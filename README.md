@@ -2,6 +2,7 @@
 
 *A highly customizable GitHub stats SVG generator*
 
+
 This project generates a visually appealing, highly customizable SVG image displaying GitHub user statistics. It's designed to be embedded in GitHub profiles or other web pages to showcase a user's GitHub activity and contributions.
 
 ## Features
